@@ -8,7 +8,8 @@ Grim,
 Kitty,
 Nautilus
 
-Binds: SUPER + S = screenshot
+Binds: 
+SUPER + S = screenshot
 
 SUPER + C = killactive
 
