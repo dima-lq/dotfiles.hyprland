@@ -13,7 +13,7 @@
 
     "modules-left": ["custom/launcher", "wlr/workspaces", "custom/weather", "hyprland/window"],
     "modules-center": ["clock"],
-    "modules-right": ["tray", "pulseaudio", "backlight", "custom/notification", "network", "hyprland/language", "battery", "custom/powermenu"],
+    "modules-right": ["tray", "pulseaudio", "backlight", "custom/notification", "network", "hyprland/language", "custom/powermenu"],
 
     // MODULE CONFIG
 
